@@ -1,0 +1,19 @@
+---
+name: User Story
+about: Standard user story template for agile issues
+title: ''
+labels: ''
+assignees: ''
+---
+
+## User Story
+
+As a…
+I need…
+So that…
+
+## Acceptance Criteria
+
+Given…
+When…
+Then…
